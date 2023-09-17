@@ -9,7 +9,7 @@ My Computer Vision projects live here
 - Machine Learning
 - Classification
 
-3. [Pneumonia Detection](https://github.com/sarambulo/Pneumonia_detection): Diagnose patients based on X-Ray images using Convolutional Neural Networks
+3. [Pneumonia Detection](https://github.com/sarambulo/Pneumonia_detection): Diagnose patients based on X-Ray images using K-Nearest Neighbors and Convolutional Neural Networks
 
 - Python
 - Tensorflow
